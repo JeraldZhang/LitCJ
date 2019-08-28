@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoApplication",
+            "request": "launch",
+            "mainClass": "com.jerald.litcj.DemoApplication",
+            "projectName": "litcj"
+        }
+    ]
+}
