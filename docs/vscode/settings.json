@@ -1,0 +1,29 @@
+{
+    "java.home": "C:/Program Files/Java/jdk-13.0.2/",
+    "java.jdt.ls.vmargs": "-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "terminal.integrated.env.windows": {
+        "JAVA_HOME":"C:/Program Files/Java/jdk-13.0.2/",
+        "MAVEN_USER_HOME":"C:/Users/he.zhang/Documents/Lib/Maven/",
+        "Path":"C:/Program Files/Java/jdk-13.0.2/bin;C:/Users/he.zhang/AppData/Local/Programs/Microsoft VS Code/bin/;C:/Program Files/nodejs/;C:/Users/he.zhang/AppData/Roaming/npm/;C:/Users/he.zhang/Documents/Lib/MSBuild/Bin;"
+    },
+    "git.ignoreMissingGitWarning": true,
+    "team.showWelcomeMessage": false,
+    "editor.fontSize": 18,
+    "editor.mouseWheelZoom": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "explorer.confirmDelete": false,
+    "files.exclude": {
+        "**/.gitignore": true
+    },
+    "files.autoSave": "off",
+    "editor.formatOnType": true,
+    "editor.renderControlCharacters": false,
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": 0,
+    "python.jediEnabled": false,
+    "extensions.ignoreRecommendations": false
+}

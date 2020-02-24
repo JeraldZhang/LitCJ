@@ -24,7 +24,8 @@
             "type": "shell",
             "command": ".\\mvnw",
             "args": [
-                "clean compile"
+                "clean",
+                "compile"
             ],
             "group": {
                 "kind": "build",
